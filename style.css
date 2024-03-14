@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(9, 9, 9);
+  }
+  .vowels{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color: whitesmoke ;
+  }
+  #result {
+    margin-top: 50px;
+    font-size: 24px;
+  }
+  .palindrome{
+    color: whitesmoke;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+  }
+  #results {
+    margin-top: 50px;
+    font-size: 24px;
+  }
+  .Calculator{
+
+    color: whitesmoke;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+  }
